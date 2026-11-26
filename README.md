@@ -1,12 +1,8 @@
 # ENGG680-Assignment-2-Group-20
 This repository consists of a README.md file that contains a summary of information needed for Assignment 2, ENGG680 F2026, Group 20.
-## Summary of Assignment
+## Introduction to Lab Assignment 2
+This assignment introduces students to using machine learning applications in python with using real applicable data from GNSS and accelerometer and movement data. Students learned how to perform nonlinear least squares, gradient descent, and classification using support vector machine. This assignment as been split into two parts, which each has four and three subsections, respectively. The first part of the project focuses primarily on using nonlinear least squares and gradient descent to estimate position of a GNSS receiver. The second part of the project involves motion classification with inertial sensor data on a training/testing dataset followed by testing on two other individual datasets. We learned how to apply python function including pandas, numpy, matplotlib, and various machine learning imports including sklearn. Throughout this assignment, we were required to apply our knowledge about statistics and various machine learning models to real observations as well as explain our findings and evaluate our models. 
 ## Part 1
-### Section 1.1
-### Section 1.2
-### Section 1.3
-### Section 1.4
+
 ## Part 2
-### Section 1
-### Section 2
-### Section 3
+Part 2 involved classification using support vector machine (SVM) in order to perform motion classification using inertial sensor data on two individual testing datasets and then evaluating the model. The first section of part 2 involved using all features excluding the target vector (which was motion state) in the training and testing of the model before it was tested on the two independent datasets. The second section involved using pre-selected features to test the data, and finally the third section of the data used features that were selected by the group and then tested on the data. 
